@@ -17,8 +17,6 @@ header {
   font-weight: 100;
 
   position: relative;
-  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
 }
 header h3 {
   color: #fff;
@@ -36,8 +34,6 @@ footer {
   padding: 20px 41px;
   /* border-radius: 10px; */
   background: #fff;
-  border-bottom-left-radius: 10px;
-  border-bottom-right-radius: 10px;
 }
 footer h4 {
   color: #402349;
